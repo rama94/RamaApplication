@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Rama Application</string>
+    <string name="home_fragment">This is Home Fragment</string>
+    <string name="home_button">GO</string>
+    <string name="first_fragment">This is the First Fragment</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+</resources>
