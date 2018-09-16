@@ -3,4 +3,5 @@
     <string name="t01s_home_fragment">This is Home Fragment</string>
     <string name="t01s_home_button">GO</string>
     <string name="t01s_first_fragment">This is the First Fragment</string>
+    <string name="title_activity_list_ip">ListIp</string>
 </resources>

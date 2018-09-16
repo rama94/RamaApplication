@@ -17,8 +17,8 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
     }
 
-    public void goToT01(View view){
-        startActivity(new Intent(this,T01_MainActivity.class));
-    }
+    public void goToT01(View view){ startActivity(new Intent(this,T01_MainActivity.class)); }
+
+    public void goToListIp(View view){ startActivity(new Intent(this,ListIp.class)); }
 
 }
